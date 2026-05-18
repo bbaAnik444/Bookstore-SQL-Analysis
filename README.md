@@ -57,14 +57,13 @@ The goal of this project is to practice SQL for business analysis by answering q
 18. List the cities where customers who spent over 30 are located
 19. Find the customer who spent the most on orders
 20. Calculate the stock remaining after fulfilling all orders
-
+</> Markdown
 ## Files
 
-* Final project.sql — SQL script with table creation, data import, and analysis queries
-* Books.csv — books dataset
-* Customers.csv — customers dataset
-* Orders.csv — orders dataset
-
+* `Final project.sql` — SQL script with table creation, data import, and analysis queries
+* `Books.csv` — books dataset
+* `Customers.csv` — customers dataset
+* `Orders.csv` — orders dataset
 ## Key Learning
 
 This project helped me practice translating business questions into SQL queries using joins, aggregations, grouping, filtering, and inventory calculations.
