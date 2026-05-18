@@ -1,37 +1,42 @@
 # Bookstore SQL Analysis Project
 
 ## Project Overview
+
 This project analyzes bookstore sales data using PostgreSQL. The database includes three tables: Books, Customers, and Orders.
 
 The goal of this project is to practice SQL for business analysis by answering questions about revenue, customers, orders, book popularity, genre sales, author sales, and remaining stock.
 
 ## Tools Used
-- PostgreSQL
-- SQL
-- CSV files
-- GitHub
+
+* PostgreSQL
+* SQL
+* CSV files
+* GitHub
 
 ## Database Tables
-- Books
-- Customers
-- Orders
+
+* Books
+* Customers
+* Orders
 
 ## SQL Skills Used
-- SELECT
-- WHERE
-- JOIN
-- LEFT JOIN
-- GROUP BY
-- HAVING
-- SUM
-- COUNT
-- AVG
-- ORDER BY
-- LIMIT
-- COALESCE
-- CSV import using COPY
+
+* SELECT
+* WHERE
+* JOIN
+* LEFT JOIN
+* GROUP BY
+* HAVING
+* SUM
+* COUNT
+* AVG
+* ORDER BY
+* LIMIT
+* COALESCE
+* CSV import using COPY
 
 ## Business Questions Answered
+
 1. Retrieve all books in the Fiction genre
 2. Find books published after the year 1950
 3. List all customers from Canada
@@ -54,10 +59,12 @@ The goal of this project is to practice SQL for business analysis by answering q
 20. Calculate the stock remaining after fulfilling all orders
 
 ## Files
-- `Final project.sql` — SQL script with table creation, data import, and analysis queries
-- `Books.csv` — books dataset
-- `Customers.csv` — customers dataset
-- `Orders.csv` — orders dataset
+
+* Final project.sql — SQL script with table creation, data import, and analysis queries
+* Books.csv — books dataset
+* Customers.csv — customers dataset
+* Orders.csv — orders dataset
 
 ## Key Learning
+
 This project helped me practice translating business questions into SQL queries using joins, aggregations, grouping, filtering, and inventory calculations.
